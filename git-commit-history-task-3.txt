@@ -1,0 +1,35 @@
+commit 8e8eb507410801233b7e308f4bad093e2b229a73
+Author: Dzhovid Dzhuraev <sayrulibod@gmail.com>
+Date:   Wed Jun 23 15:38:04 2021 -0500
+
+    Kubernetes definitions files for deployment, service (LoadBalancer), and autoscaler
+
+commit b5ce7fc719b0b2fcc50be65b41a48759ad59e154
+Author: Dzhovid Dzhuraev <sayrulibod@gmail.com>
+Date:   Wed Jun 23 11:26:56 2021 +0000
+
+    service to run my-container accessible on port 8080
+
+commit 8d99bda0b88cb77830240aeeef7f35168cf3d448
+Author: Dzhovid Dzhuraev <sayrulibod@gmail.com>
+Date:   Wed Jun 23 03:18:32 2021 +0000
+
+    NPM script for image building
+
+commit a4031305bee62359e20e004fc10713f1cb66869d
+Author: Dzhovid Dzhuraev <sayrulibod@gmail.com>
+Date:   Wed Jun 23 03:13:56 2021 +0000
+
+    Added private: true, to package.json file to avoid NPM Warning of no repository.
+
+commit fefb9dd63e594358e579202cc7f5a6a6ff217260
+Author: Dzhovid Dzhuraev <sayrulibod@gmail.com>
+Date:   Tue Jun 22 20:45:03 2021 -0500
+
+    nodejs app
+
+commit c5446bf7a142743e372248fc281c311d7733879c
+Author: Dzhovid DZHURAEV <77932711+dzhovid@users.noreply.github.com>
+Date:   Tue Jun 22 20:42:18 2021 -0500
+
+    Initial commit
