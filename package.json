@@ -1,0 +1,14 @@
+{
+  "name": "devops-exercise",
+  "version": "1.0.0",
+  "description": "A simple echo web server that needs to be dockerized and prepared for deployment in a Kubernetes cluster.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "MFGx, LLC",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "3.18.0"
+  }
+}
